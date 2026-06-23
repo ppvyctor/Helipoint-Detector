@@ -28,4 +28,4 @@
 
 
 #### <p align="center"> Teaching YOLO to say: ***“Yup  !!! that's definitely an H !!*** 
-##### <p align="center"> ***Finding hidden H's in the concrete jungle...*** ⚡️ One rooftop at a time.</p>
+##### <p align="center"> ***Finding Hidden H's in the Concrete Jungle...*** ⚡️ One Rooftop at a Time.</p>
